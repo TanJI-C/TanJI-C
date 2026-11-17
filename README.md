@@ -1,4 +1,4 @@
-# Huaiming Shen · 沈怀明
+# [Huaiming Shen · 沈怀明](https://tanji-c.github.io/)
 
 <p>
   <a href="https://tanji-c.github.io/"><img alt="English homepage" src="https://img.shields.io/badge/Homepage-English-1F6FEB?style=flat-square&amp;logo=githubpages&amp;logoColor=white"></a>
